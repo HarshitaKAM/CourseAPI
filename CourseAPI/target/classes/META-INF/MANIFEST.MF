@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Aditya
+Build-Jdk: 10
+Implementation-Title: CourseAPI
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/CourseAPI
+Created-By: Maven Integration for Eclipse
+
